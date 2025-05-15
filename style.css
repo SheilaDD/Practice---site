@@ -1,0 +1,30 @@
+body {
+  background-color: bisque;
+  font-family: "Courier New", Courier, monospace;
+  color: brown;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: rgb(162, 162, 219);
+  color: rgb(108, 71, 97);
+  padding: 20px;
+  text-align: center;
+}
+
+section {
+  padding: 20px;
+  margin: 10px auto;
+  max-width: 600px;
+}
+
+h2 {
+  color: blueviolet;
+}
+
+footer {
+  text-align: center;
+  color: black;
+  background: rgb(162, 162, 219);
+  padding: 0;
+}
